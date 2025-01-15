@@ -30,6 +30,8 @@ nav:
           - Finding Minimum and Maximum: 'SI/10-Standard-Algorithms-Finding-Minimum-and-Maximum.md'
           - Parrallel 1D Arrays: 'SI/11-Parallel-1D-Arrays.md'
           - Arrays of Records: 'SI/12-Arrays-of-Records.md'
+      - Testing:
+          - Trace Tables: 'SDD/5.0-Trace-Tables.md'
     - Unit 2 - Computer Systems:
       - CS/index.md
     - Unit 3 - Database Design and Development:
@@ -45,6 +47,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - tables
   - attr_list
   - md_in_html
   - pymdownx.emoji:
