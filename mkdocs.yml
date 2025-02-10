@@ -19,7 +19,7 @@ nav:
           - Main Algorithm and Refinements: 'SDD/3.2-Main-Algorithm-and-Refinements.md'
           - Data Flow In Out: 'SDD/3.3-Data-Flow-In-Out.md' 
       - Software Implementation:
-          - Software Implementation: 'SDD/04-Software-Implementation.md'
+          - Software Implementation: 'SDD/4.0-Software-Implementation.md'
           - Sub-program Procedures: 'SI/01-Sub-Program Procedures.md'
           - Scope of Variables and Parameter Passing: 'SI/02-Scope-of-Variables-and-Parameter-Passing.md'
           - Working with Files: 'SI/05-Working-with-Files-(txt).md'
@@ -36,7 +36,13 @@ nav:
       - CS/index.md
     - Unit 3 - Database Design and Development:
       - DDD/index.md
-
+      - End user Requirements: 'DDD/1.1-End-User-Requirements.md'
+      - Functional Requirements: 'DDD/1.2-Functional-Requirements.md' 
+      - General Data Protection: 'DDD/1.3-General-Data-Protection-Regulation.md'
+      - Entities and Attributes: 'DDD/2.1-Entities-and-Attributes.md'
+      - Primary, Foreign and Compound Key: 'DDD/2.2-Primary-Foreign-and-Compound-Keys.md' 
+      - Referential Integrity: 'DDD/2.3-Referential-Integrity.md'
+      
 markdown_extensions:
   - admonition
   - pymdownx.details
