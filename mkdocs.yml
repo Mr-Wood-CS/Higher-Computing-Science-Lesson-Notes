@@ -43,7 +43,10 @@ nav:
       - Primary, Foreign and Compound Key: 'DDD/2.2-Primary-Foreign-and-Compound-Keys.md' 
       - Referential Integrity: 'DDD/2.3-Referential-Integrity.md'
       - SQL Implemenatation:
-        - SQL Wildcard Operations: 'DDD/3.0-SQL-Wildcards.md'
+        - SQL Wildcard Operations: 'DDD/3.1-SQL-Wildcards.md'
+        - SQL Aggregate Operations: 'DDD/3.2-SQL-Aggregate-Functions.md'
+        - SQL Values & Alias Operations: 'DDD/3.3-SQL-Values-&-Aliases.md'
+        - SQL Update Operations: 'DDD/3.4-SQL-Update-Operations.md'
       
 markdown_extensions:
   - admonition
